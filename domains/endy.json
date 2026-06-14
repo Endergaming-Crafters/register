@@ -4,5 +4,6 @@
     },
     "records": {
         "CNAME": "example.org"
+        "NS": ["annabel.ns.cloudflare.com", "syeef.ns.cloudflare.com"]
     }
 }
